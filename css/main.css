@@ -200,3 +200,9 @@ main > .content-form .cart-item
     margin-bottom: 2px !important;
 }
 
+body
+{
+background: linear-gradient(120deg, #e6d0f8, #c8a2f8, #a18cd1); /* light lavender to soft purple */
+transition: background 0.5s ease, color 0.3s ease;
+color: #5e3a87; /* deep lavender text for contrast */
+}
