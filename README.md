@@ -12,7 +12,6 @@ Here’s a glimpse of my SpringShop frontend in action! 🎀
 
 ![Spring Shop Front End](https://github.com/user-attachments/assets/68021eba-b55d-4f22-8f71-4d1c2dd53726)
 
-
 > I made some UI tweaks for a cleaner, softer aesthetic — pastel tones, better spacing, and minimal distractions 💅
 
 ---
