@@ -6,6 +6,16 @@ This is the front-end interface for **SpringShop**, an e-commerce web app powere
 
 ---
 
+## 🖼️ Screenshot
+
+Here’s a glimpse of my SpringShop frontend in action! 🎀
+
+![Spring Shop Front End](https://github.com/user-attachments/assets/68021eba-b55d-4f22-8f71-4d1c2dd53726)
+
+> I made some UI tweaks for a cleaner, softer aesthetic — pastel tones, better spacing, and minimal distractions 💅
+
+---
+
 ## 🎨 Features
 
 - View featured, in-stock, and categorized products
@@ -18,13 +28,13 @@ This is the front-end interface for **SpringShop**, an e-commerce web app powere
 
 ## 💻 Technologies
 
-| Tech         | Description             |
-|--------------|-------------------------|
-| HTML & CSS   | Base structure & styling|
-| Bootstrap    | Provided layout framework |
-| JavaScript   | Handles UI interactions |
-| Fetch API    | Communicates with backend |
-| JWT          | Auth stored in localStorage |
+| Tech         | Description                |
+|--------------|----------------------------|
+| HTML & CSS   | Base structure & styling   |
+| Bootstrap    | Provided layout framework  |
+| JavaScript   | Handles UI interactions    |
+| Fetch API    | Communicates with backend  |
+| JWT          | Auth stored in localStorage|
 
 ---
 
@@ -49,6 +59,15 @@ This is the front-end interface for **SpringShop**, an e-commerce web app powere
 ## 🌐 Backend API
 
 Check out the [SpringShop Backend](https://github.com/your-backend-repo-link) for all the REST API endpoints and database logic.
+
+---
+
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Made with Love](https://img.shields.io/badge/Made%20with-%F0%9F%A4%A9%20corazón-ff69b4?style=for-the-badge)
 
 ---
 
